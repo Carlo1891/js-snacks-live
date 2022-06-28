@@ -145,3 +145,47 @@ Microbonus: controlla la somma degli elementi usando una funzione che prenda com
 //     return result
 // }
 
+// settimo Snack
+
+/* 
+ * Crea 10 oggetti che rappresentano un peperone, 
+ * indicandone per ognuno varietà, peso e lunghezza. 
+ * Calcola quanto pesano tutti i peperoni.
+ */
+
+// const peperoni = [
+//     {
+//         tipo : 'peperone nano',
+//         peso : 0.5,
+//         lunghezza : "20 cm"
+//     },
+//     {
+//         tipo : 'peperone nano',
+//         peso : 0.5,
+//         lunghezza : "20 cm"
+//     },
+//     {
+//         tipo : 'peperone nano',
+//         peso : 0.5,
+//         lunghezza : "20 cm"
+//     },
+//     {
+//         tipo : 'peperone nano',
+//         peso : 0.5,
+//         lunghezza : "20 cm"
+//     },
+// ];
+
+// let sommaPeso = 0;
+
+// for ( let i = 0; i < peperoni.length; i++) {
+//     sommaPeso = sommaPeso + peperoni [i].peso;
+// }
+// console.log (sommaPeso);
+
+// Ottavo snack 
+/* 
+ * Crea 10 oggetti che rappresentano una zucchina.
+ * Dividi in due array separati le zucchine che misurano meno o più di 15cm.
+ * Infine stampa separatamente quanto pesano i due gruppi di zucchine.
+ */
