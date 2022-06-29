@@ -189,3 +189,68 @@ Microbonus: controlla la somma degli elementi usando una funzione che prenda com
  * Dividi in due array separati le zucchine che misurano meno o più di 15cm.
  * Infine stampa separatamente quanto pesano i due gruppi di zucchine.
  */
+
+// Nono snacks
+/**
+Crea un array composto da 10 automobili.
+Ogni oggetto automobile avrà le seguenti proprietà:
+marca, modello e alimentazione (benzina, diesel, gpl, elettrico, metano).
+Dividi le automobili in 3 array separati:
+nel primo array solo le auto a benzina, 
+nel secondo solo le auto a diesel, 
+nel terzo il resto delle auto.    
+Infine stampa separatamente i 3 array.
+*/
+
+const carList = [ {
+    marca : 'Fiat',
+    modello : '500L',
+    alimentazione : 'Benzina',
+},
+{
+    marca : 'Volvo',
+    modello : 'XC60',
+    alimentazione : 'Diesel',
+},
+{
+    marca : 'Lancia',
+    modello : 'Ypsilon',
+    alimentazione : 'GPL',
+},
+{
+    marca : 'Fiat',
+    modello : 'Tipo',
+    alimentazione : 'Elettrico',
+},
+{
+    marca : 'Toyota',
+    modello : 'Yaris',
+    alimentazione : 'Metano',
+},
+{
+    marca : 'Porche',
+    modello : 'Chayenne',
+    alimentazione : 'Benzina',
+},
+{
+    marca : 'Fiat',
+    modello : 'Freemont',
+    alimentazione : 'Diesel',
+},
+{
+    marca : 'Fiat',
+    modello : 'Bravo',
+    alimentazione : 'GPL',
+},
+{
+    marca : 'Fiat',
+    modello : '500X',
+    alimentazione : 'Elettrico',
+},
+{
+    marca : 'Fiat',
+    modello : '500',
+    alimentazione : 'Metano',
+},
+];
+
